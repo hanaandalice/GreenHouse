@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#80C643</color>
+    <color name="colorPrimaryDark">#80C643</color>
+    <color name="colorAccent">#80C643</color>
+
+    <color name="grey_line">#E4E4E4</color>
+    <color name="grey_text">#999999</color>
+    <color name="grey_text33">#333333</color>
+    <color name="grey_hint">#b5b5b5</color>
+    <color name="grey_84">#848486</color>
+    <color name="grey_f5">#F5F5F5</color>
+    <color name="grey_f2">#f2f2f2</color>
+    <color name="black_95">#959595</color>
+    <color name="black_66">#666666</color>
+
+    <color name="grey_b5">#b5b5b5</color>
+    <color name="grey_e5">#e5e5e5</color>
+    <color name="grey_hint88">#888888</color>
+    <color name="grey_hint66">#666666</color>
+    <color name="grey_bf">#BFBFBF</color>
+    <color name="grey_be">#BEBEBE</color>
+    <color name="textColor_green">#5CAD2D</color>
+    <color name="textColor_green_44">#447000</color>
+    <color name="textColor_blue_08">#084B34</color>
+    <color name="textColor_red_97">#97043B</color>
+    <color name="textColor_orange_6c">#6C1203</color>
+    <color name="bg_green">#80C643</color>
+    <color name="transparency66_bg_green">#6680C643</color>
+    <color name="bg_green_bc">#BCDC8B</color>
+    <color name="pink_button">#FF6460</color>
+    <color name="transparency">#00ffffff</color>
+    <color name="transparency_black66">#66000000</color>
+    <color name="transparency_black33">#33000000</color>
+    <color name="transparency_black88">#88000000</color>
+    <color name="transparency_green10">#1080C643</color>
+    <color name="transparency99_redColor_f2">#99F2634B</color>
+    <color name="blue_6f">#6FA3DF</color>
+    <color name="blue_5e">#5EC8A3</color>
+    <color name="blue_85">#85DFBF</color>
+    <color name="blue_3a">#3A7CCA</color>
+    <color name="button_click">#BCDC8B</color>
+    <color name="default_bg">#FEFCED</color>
+    <color name="button_unclick">#FF8201</color>
+    <color name="orangeColor_fe">#FEAF02</color>
+    <color name="blue_default">#566E7A</color>
+    <color name="bgColor">#F2F0F1</color>
+    <color name="bg_color">#F5F5F5</color>
+    <color name="redColor">#FF003A</color>
+    <color name="redColor_f2">#F2634B</color>
+    <color name="red_f2">#F2634B</color>
+    <color name="red_f9">#F98E9A</color>
+    <color name="red_d1">#D12465</color>
+    <color name="orange_f2">#F2634B</color>
+    <color name="orange_f9">#F99685</color>
+    <color name="orange_f8">#F88617</color>
+    <color name="orange_fb">#FBA175</color>
+    <color name="purpleColor_aa">#AA8DE9</color>
+
+
+</resources>

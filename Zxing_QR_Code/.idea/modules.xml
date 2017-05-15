@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Clbicycle.iml" filepath="$PROJECT_DIR$/../Clbicycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FlycoDialog_Lib/FlycoDialog_Lib.iml" filepath="$PROJECT_DIR$/../FlycoDialog_Lib/FlycoDialog_Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zxing_QR_Code.iml" filepath="$PROJECT_DIR$/Zxing_QR_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../galleryfinal/galleryfinal.iml" filepath="$PROJECT_DIR$/../galleryfinal/galleryfinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../magicProgress/magicProgress.iml" filepath="$PROJECT_DIR$/../magicProgress/magicProgress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pickerview/pickerview.iml" filepath="$PROJECT_DIR$/../pickerview/pickerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stepview/stepview.iml" filepath="$PROJECT_DIR$/../stepview/stepview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../umeng_sdk/umeng_sdk.iml" filepath="$PROJECT_DIR$/../umeng_sdk/umeng_sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xldUtils/xldUtils.iml" filepath="$PROJECT_DIR$/../xldUtils/xldUtils.iml" />
+    </modules>
+  </component>
+</project>

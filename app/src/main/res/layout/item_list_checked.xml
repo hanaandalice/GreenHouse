@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:id="@+id/layout_checked"
+    >
+    <CheckBox
+        android:id="@+id/cb_checked"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:button="@null"
+        android:checked="false"
+        android:clickable="false"
+        android:drawablePadding="5dp"
+        android:drawableRight="@drawable/checked_list"
+        android:padding="10dp"
+        android:text="综合"
+        android:textColor="@color/text_color"
+        android:textSize="14sp"
+        android:layout_centerInParent="true"
+        />
+</FrameLayout>

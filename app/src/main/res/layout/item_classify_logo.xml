@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:background="@color/bg_color"
+    >
+    <com.xilada.xldutils.view.RoundAngleImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:roundHeight="5dp"
+        app:roundWidth="5dp"
+        android:background="@color/white"
+        android:src="@mipmap/test_goods_discover"
+        android:scaleType="centerCrop"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12sp"
+        android:textColor="@color/grey_84"
+        android:text="初引初乐"
+        android:layout_marginTop="4dp"
+        />
+</LinearLayout>

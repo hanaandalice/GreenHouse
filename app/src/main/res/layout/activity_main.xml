@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/mRegisterScroll"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.zipingfang.greenhouse.MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        >
+        <FrameLayout
+            android:id="@+id/ct_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/bg_color"/>
+    </LinearLayout>
+
+    <com.flyco.tablayout.CommonTabLayout
+        android:id="@+id/bottom_common_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#ffffff"
+        app:tl_iconHeight="21dp"
+        app:tl_iconWidth="21dp"
+        app:tl_indicator_color="@color/bg_green"
+        app:tl_indicator_height="0dp"
+        app:tl_textSelectColor="@color/bg_green"
+        app:tl_textUnselectColor="#888888"
+        app:tl_textsize="12sp"
+        app:tl_underline_color="@color/dividing_line_color"
+        app:tl_underline_height="0.5dp"
+        app:tl_underline_gravity="TOP"
+        android:layout_gravity="bottom"
+        />
+</LinearLayout>

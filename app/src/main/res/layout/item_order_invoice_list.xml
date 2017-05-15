@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="left"
+    android:paddingBottom="10dp"
+    >
+    <ImageView
+        android:id="@+id/iv_selected_true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/bg_select_invoice_true"
+        android:layout_gravity="bottom|right"
+        />
+    <TextView
+        android:id="@+id/tv_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="80dp"
+        android:text="TAG标签"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:maxLines="1"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:ellipsize="end"
+        android:background="@drawable/rect_transparency_bg_green_1dp_line"
+        android:textColor="@color/text_color"
+        />
+</FrameLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="80dp"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:layout_marginLeft="10dp"
+    >
+    <RelativeLayout
+        android:layout_width="80dp"
+        android:layout_height="80dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@mipmap/test_icon_commodity"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="10sp"
+            android:textColor="@color/white"
+            android:text="new"
+            android:background="@color/redColor_f2"
+            android:paddingLeft="6dp"
+            android:paddingRight="6dp"
+            android:maxLines="1"
+            android:ellipsize="end"
+            />
+    </RelativeLayout>
+    <TextView
+       style="@style/label_text"
+        android:text="韩国初饮初"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:layout_marginTop="4dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="¥ 27.80"
+        android:textSize="12sp"
+        android:layout_marginTop="6dp"
+        android:textColor="@color/redColor_f2"
+        />
+</LinearLayout>

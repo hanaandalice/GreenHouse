@@ -1,0 +1,1 @@
+include ':app', ':xldUtils', ':Zxing_QR_Code', ':umeng_sdk', ':FlycoDialog_Lib', ':FrescoUtil', 'suspensionIndexBar', 'JD_SelectAddress', ':JD_SelectAddress'
